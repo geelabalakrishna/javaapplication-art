@@ -26,3 +26,17 @@ automatic deploy into tomcat
 mvn clean tomcat7:deploy
 
 ```
+```
+[ root@ip-10-10-2-223 ~/.m2/repository/com ]# tree
+.
+├── access
+│   └── login
+│       ├── 1.0
+│       │   ├── login-1.0.pom
+│       │   ├── login-1.0.war
+│       │   └── _remote.repositories
+│       └── maven-metadata-local.xml
+```
+
+
+```
