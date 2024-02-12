@@ -27,6 +27,7 @@ mvn clean tomcat7:deploy
 
 ```
 ```
+mvn clean install
 [ root@ip-10-10-2-223 ~/.m2/repository/com ]# tree
 .
 ├── access
